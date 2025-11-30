@@ -1,4 +1,4 @@
-hi. Today I'm going to do general exercises. Since it's going to be quick, I won't break it down into sections.
+# hi. Today I'm going to do general exercises. Since it's going to be quick, I won't break it down into sections.
 |---------------------------------------------------------------------------------------------------------------|
 practis one : display block and inline-block
 <!DOCTYPE html>
@@ -28,8 +28,7 @@ practis one : display block and inline-block
 |---------------------------------------------------------------------------------------------------------------|
 practis two : <div>
 div is mean:division and it *just a box* and is a block element
-
-    <div class="video-preview">
+   <div class="video-preview">
         <img class="thumbnail" src="thumbnails/thumbnail-1.webp">
     <p class="video-title">
       Talking Tech and AI with Google CEO Sundar Pichai!
