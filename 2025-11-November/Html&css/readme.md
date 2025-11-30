@@ -1,6 +1,7 @@
 # hi. Today I'm going to do general exercises. Since it's going to be quick, I won't break it down into sections.
 |---------------------------------------------------------------------------------------------------------------|
-practis one : display block and inline-block
+>*practis one :
+>>display block and inline-block
 <!DOCTYPE html>
 <html>
   <head>
@@ -23,10 +24,10 @@ practis one : display block and inline-block
   </body>
 </html>
 
-<img width="940" height="356" alt="image" src="https://github.com/user-attachments/assets/8e02e830-d211-48d8-9341-ffebad17b1d4" />
+>>> <img width="940" height="356" alt="image" src="https://github.com/user-attachments/assets/8e02e830-d211-48d8-9341-ffebad17b1d4" />
 
 |---------------------------------------------------------------------------------------------------------------|
-practis two : <div>
+>* ## practis two : <div>
 div is mean:division and it *just a box* and is a block element
    <div class="video-preview">
         <img class="thumbnail" src="thumbnails/thumbnail-1.webp">
@@ -40,5 +41,15 @@ div is mean:division and it *just a box* and is a block element
       3.4M views &#183; 6 months ago
     </p>
     </div>
-    <img width="310" height="266" alt="image" src="https://github.com/user-attachments/assets/fec60b1d-8bd8-4f96-b686-bde582a9988e" />
+   >> <img width="310" height="266" alt="image" src="https://github.com/user-attachments/assets/fec60b1d-8bd8-4f96-b686-bde582a9988e" />
 
+
+|---------------------------------------------------------------------------------------------------------------|
+> * ### to day 30 november
+ >> *to day i learn : nested layouts technique 
+  * We have 2 types of layouts.
+ Vertical layout: which are placed on top of each other
+And the second is horizantol layout: which is placed horizontally next to each other
+<img width="303" height="286" alt="image" src="https://github.com/user-attachments/assets/5a908bcb-2201-47c8-a019-1db634cc27e6" />
+
+  * This lesson requires some thought.
