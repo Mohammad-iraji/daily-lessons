@@ -35,3 +35,4 @@ You decide where to use it — but Grid is ideal for:
 - `fr` means **fractional unit** — a share of the free available space.
 
 
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/803c66d1-6b12-4f34-a19b-b5dadf2e5586" />
