@@ -36,3 +36,29 @@ You decide where to use it — but Grid is ideal for:
 
 
 <img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/803c66d1-6b12-4f34-a19b-b5dadf2e5586" />
+
+---
+---
+---
+---
+
+# Flexbox vs. CSS Grid: A Practical Comparison
+
+CSS provides two powerful layout modules — **Flexbox** and **CSS Grid** — each designed to solve different types of layout challenges. This document explains the core concepts of both tools, highlights their strengths, and offers guidance on when to use each one.
+
+---
+
+## 🚀 What Is Flexbox?
+
+Flexbox (Flexible Box Layout) is a one-dimensional layout system that excels at arranging items **in a single row or a single column**.
+
+### Key Features
+- One-dimensional: manages layout in *either* horizontal **or** vertical direction.
+- Automatic space distribution and alignment.
+- Great for dynamic and small-scale layouts.
+- Ideal for navigation bars, buttons, toolbars, small component lists.
+---
+### Flexbox Container Properties
+- `display: flex`
+- `justify-content`:flex-start;|flex-end;|center;|space-between;|space-around; 
+- `align-items` : flex-start;|flex-end;|center;|stretch;|
