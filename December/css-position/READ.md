@@ -13,8 +13,8 @@ position: relative | absolute | fixed |
 - Other elements keep their space
 
 
-### Why `relative` is Important
-position: relative` is commonly used to create a **positioning context** for absolutely positioned children
+### Why `relativ` is Important
+position: `relative` is commonly used to create a **positioning context** for absolutely positioned children
 
 ---
 
