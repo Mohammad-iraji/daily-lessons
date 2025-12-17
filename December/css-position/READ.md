@@ -11,11 +11,11 @@ position: relative | absolute | fixed |
 - Stays in the normal flow
 - Can be moved relative to its original position
 - Other elements keep their space
-```
+
 
 ### Why `relative` is Important
-`position: relative` is commonly used to create a **positioning context** for absolutely positioned children
-```
+position: relative` is commonly used to create a **positioning context** for absolutely positioned children
+
 ---
 
 ## 3. `position: absolute` place on the page
