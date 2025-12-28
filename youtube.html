@@ -9,6 +9,7 @@
  <link rel="stylesheet" href="styles/general.css">
   <link rel="stylesheet" href="styles/header.css">
    <link rel="stylesheet" href="styles/video.css">
+   <link rel="stylesheet" href="styles/sidebar.css">
   </head>
   <body>
     <div class="header">
@@ -22,34 +23,61 @@
           <button class="search-button">
             <img
             class="search-icon"  src="icons/search.svg">
+            <div class="tooltip">Search</div>
           </button>
           <button class="voice-search-button">
             <img class="voice-search-icon"
              src="icons/voice-search-icon.svg" alt="">
+             <div class="tooltip">Searh with your voice</div>
           </button>
       </div>
       <div class="right-section">
 
         <img class="upload-icon" src="icons/upload.svg">
         <img class="YouTube-apps-icon" src="icons/youtube-apps.svg">
-        <img class="notifications-icon" src="icons/notifications.svg">
+          <div
+           class=" notifications-icon-container">
+          <img class="notifications-icon" src="icons/notifications.svg">
+          <div class="notifications-count">3</div>
+        </div>
         <img class="current-user-picture" src="profile/my-channel.jpeg">
-       
-
       </div>
-    
-     
-
     </div>
     
+
+    <div class="sidebar"> 
+      <div class="sidebar-link">
+        <img src="icons/home.svg" alt="">
+        <div>Home</div>
+      </div>
+      <div class="sidebar-link">
+        <img src="icons/explore.svg" alt="">
+        <div>Explore</div>
+      </div>
+      <div class="sidebar-link">
+        <img src="icons/subscriptions.svg" alt="">
+        <div>Subscriptions</div>
+      </div>
+      <div class="sidebar-link">
+        <img src="icons/originals.svg" alt="">
+        <div>Originals</div>
+      </div>
+      <div class="sidebar-link">
+        <img src="icons/youtube-music.svg" alt="">
+        <div>Youtube music</div>
+      </div>
+      <div class="sidebar-link">
+        <img src="icons/library.svg" alt="">
+        <div>Libra</div>
+      </div>
+    </div>
  
-   <div class="video-grid">
-     
+   <div class="video-grid"> 
     <div class="video-preview">
       <div class="thumbnail-row">
         <img class="thumbnail" src="thumbnails/thumbnail-1.webp">
-      </div>
-
+         <div class="video-time">14:20</div>
+    </div>
       <div class="video-info-grid">
         <div class="chanell-picture"> 
            <img class="profile-picture" src="profile/channel-1.jpeg"> </div>
@@ -71,6 +99,7 @@
     <div class="video-preview">
       <div class="thumbnail-row">
         <img class="thumbnail" src="thumbnails/thumbnail-2.webp">
+        <div class="video-time">8:22</div>
       </div>
         <div class="video-info-grid">
         
@@ -97,6 +126,7 @@
      <div class="video-preview">
       <div class="thumbnail-row">
         <img class="thumbnail" src="thumbnails/thumbnail-3.webp">
+        <div class="video-time">9:13</div>
       </div>
 
       <div class="video-info-grid">
@@ -120,6 +150,7 @@
     <div class="video-preview">
       <div class="thumbnail-row">
         <img class="thumbnail" src="thumbnails/thumbnail-4.webp">
+        <div class="video-time">22:09</div>
       </div>
         <div class="video-info-grid">
         
@@ -145,6 +176,7 @@
      <div class="video-preview">
       <div class="thumbnail-row">
         <img class="thumbnail" src="thumbnails/thumbnail-5.webp">
+        <div class="video-time">11:17</div>
       </div>
 
       <div class="video-info-grid">
@@ -167,6 +199,7 @@ Kadane's Algorithm to Maximum Sum Subarray Problem       </p>
     <div class="video-preview">
       <div class="thumbnail-row">
         <img class="thumbnail" src="thumbnails/thumbnail-6.webp">
+        <div class="video-time">11:59</div>
       </div>
         <div class="video-info-grid">
         
