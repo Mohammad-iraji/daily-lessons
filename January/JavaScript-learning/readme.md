@@ -1,6 +1,5 @@
 # Numbers & Math Basics in JavaScript
 
-This document explains basic numeric concepts and math operations in JavaScript, written in a clear and beginner-friendly way.
 
 ---
 
